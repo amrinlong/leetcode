@@ -12,3 +12,9 @@
         }
     }
 };
+
+const arrOfNums = [2,7,11,15]
+const targetNum = 9
+// expected [0, 1]
+
+console.log(twoSum(arrOfNums, targetNum))
