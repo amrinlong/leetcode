@@ -1,4 +1,4 @@
-/**
+/*
  * @param {number[]} nums
  * @param {number} target
  * @return {number[]}
@@ -17,5 +17,3 @@ const arrOfNums = [2,7,11,15] // expected [0, 1]
 const targetNum = 9
 
 console.log(twoSum(arrOfNums, targetNum))
-
-// testing source control
